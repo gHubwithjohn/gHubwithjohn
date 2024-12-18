@@ -1,4 +1,4 @@
-# My Project
+# My first devops Project
 
 A simple Node.js application running inside a Docker container.
 
